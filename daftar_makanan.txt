@@ -1,6 +1,6 @@
 Makanan Favorit:
   1. Indomie 
   2. Lasagna
-  3. Bala-bala
-  4. Tofu
-  5. Spaghetti
+  3. Burger
+  4. Sushi
+  5. Ramen
